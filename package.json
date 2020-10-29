@@ -13,17 +13,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/toftcode/swagger-axios-ts-generator-example.git"
+    "url": "git+https://github.com/toft-code/swagger-axios-ts-generator-example.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/toftcode/swagger-axios-ts-generator-example/issues"
+    "url": "https://github.com/toft-code/swagger-axios-ts-generator-example/issues"
   },
-  "homepage": "https://github.com/toftcode/swagger-axios-ts-generator-example#readme",
+  "homepage": "https://github.com/toft-code/swagger-axios-ts-generator-example#readme",
   "devDependencies": {
-    "@toftcode/swagger-axios-ts-generator": "^0.0.3",
+    "@toft-code/swagger-axios-ts-generator": "^0.0.3",
     "@types/node": "^14.11.5"
   }
 }
